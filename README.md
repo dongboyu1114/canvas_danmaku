@@ -82,5 +82,3 @@ class _DanmakuPageState extends State<DanmakuPage> {
 
 [xiaoyaocz/ns_danmaku](https://github.com/xiaoyaocz/flutter_ns_danmaku) 本项目的灵感来自 ns_danmaku ，一个非常优秀的项目。
 
-# canvas_danmaku
-# canvas_danmaku
